@@ -4989,7 +4989,7 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       What's App
+  - name:       Whats App
     id:         whatsapp
     unicode:    f232
     created:    4.3
@@ -5056,3 +5056,79 @@ icons:
     created:    4.3
     categories:
       - Brand Icons
+
+  - name:       Eye Close
+    id:         eye-close
+    unicode:    f240
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Eye Check
+    id:         eye-check
+    unicode:    f241
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Eye Minus
+    id:         eye-minus
+    unicode:    f242
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Eye Plus
+    id:         eye-plus
+    unicode:    f243
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Spam Envelope Stop
+    id:         spam-envelope-stop
+    unicode:    f244
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Spam Envelope Flame
+    id:         spam-envelope-flame
+    unicode:    f245
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
+
+  - name:       Spam Flame
+    id:         spam-flame
+    unicode:    f246
+    created:    4.3
+    filter:
+      - show
+      - visible
+      - views
+    categories:
+      - Web Application Icons
