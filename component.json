@@ -11,10 +11,10 @@
     "css/font-awesome.css"
   ],
   "fonts": [
-    "fonts/fontawesome-webfont.eot",
-    "fonts/fontawesome-webfont.svg",
-    "fonts/fontawesome-webfont.ttf",
-    "fonts/fontawesome-webfont.woff",
+    "fonts/fontawesome-protonmail.eot",
+    "fonts/fontawesome-protonmail.svg",
+    "fonts/fontawesome-protonmail.ttf",
+    "fonts/fontawesome-protonmail.woff",
     "fonts/FontAwesome.otf"
   ]
 }
