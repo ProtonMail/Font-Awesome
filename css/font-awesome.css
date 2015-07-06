@@ -1799,3 +1799,27 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-read-eye-close:before {
+  content: "\e600";
+}
+.fa-read-eye-check:before {
+  content: "\e601";
+}
+.fa-read-eye-minus:before {
+  content: "\e602";
+}
+.fa-read-eye-plus:before {
+  content: "\e603";
+}
+.fa-read-eye:before {
+  content: "\e604";
+}
+.fa-spam-envelope-stop:before {
+  content: "\e605";
+}
+.fa-spam-envelope-flame:before {
+  content: "\e606";
+}
+.fa-spam-flame:before {
+  content: "\e607";
+}
